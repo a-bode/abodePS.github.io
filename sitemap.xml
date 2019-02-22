@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
+            <loc>https://abodeps.github.io/backup_posts/2015-02-09-social-meta-tags/</loc>
+        </url>
+    
+        <url>
+            <loc>https://abodeps.github.io/backup_posts/2015-12-04-analisando-seu-codigo-js-com-linter/</loc>
+        </url>
+    
+        <url>
+            <loc>https://abodeps.github.io/backup_posts/2016-05-08-how-to-use/</loc>
+        </url>
+    
+        <url>
+            <loc>https://abodeps.github.io/backup_posts/2016-05-08-welcome-to-jekyll/</loc>
+        </url>
+    
+        <url>
             <loc>https://abodeps.github.io/about/index.html</loc>
         </url>
     
@@ -54,40 +70,24 @@
         </url>
     
         <url>
-            <loc>https://abodeps.github.io/category/svg/</loc>
-        </url>
-    
-        <url>
             <loc>https://abodeps.github.io/tags/index.html</loc>
         </url>
     
+        <url>
+            <loc>https://abodeps.github.io/category/teams/</loc>
+        </url>
     
+    
+        <url>
+            <loc>https://abodeps.github.io/delete-orphaned-categories-in-outlook-for-mac/</loc>
+        </url>
+  
         <url>
             <loc>https://abodeps.github.io/exchange-connection-manager-2.0/</loc>
         </url>
   
         <url>
-            <loc>https://abodeps.github.io/how-to-use/</loc>
-        </url>
-  
-        <url>
-            <loc>https://abodeps.github.io/welcome-to-jekyll/</loc>
-        </url>
-  
-        <url>
-            <loc>https://abodeps.github.io/analisando-seu-codigo-js-com-linter/</loc>
-        </url>
-  
-        <url>
-            <loc>https://abodeps.github.io/social-meta-tags/</loc>
-        </url>
-  
-        <url>
-            <loc>https://abodeps.github.io/por-que-usar-svg/</loc>
-        </url>
-  
-        <url>
-            <loc>https://abodeps.github.io/dica-rapida-1/</loc>
+            <loc>https://abodeps.github.io/unable-to-start-microsoft-teams-client-for-mac-error-code-300/</loc>
         </url>
   
 </urlset>

@@ -1,59 +1,27 @@
 [
   
     {
+      "title"    : "Delete Orphaned Categories in Outlook for Mac",
+      "tags"     : "Apple Script, Office365, Migration, and Outlook",
+      "categories"     : "misc",
+      "url"      : "/delete-orphaned-categories-in-outlook-for-mac/",
+      "date"     : "07 Jan 2019"
+    } ,
+  
+    {
       "title"    : "Exchange Connection Manager 2.0",
       "tags"     : "PowerShell, PowerShell Core, Exchange, Exchange Online, and Office365",
       "categories"     : "ps",
       "url"      : "/exchange-connection-manager-2.0/",
-      "date"     : "22 Feb 2019"
+      "date"     : "16 Mar 2018"
     } ,
   
     {
-      "title"    : "How to Use",
-      "tags"     : "misc and jekyll",
-      "categories"     : "misc",
-      "url"      : "/how-to-use/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll",
-      "tags"     : "jekyll",
-      "categories"     : "jekyll",
-      "url"      : "/welcome-to-jekyll/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "Analisando seu código JS com um linter",
-      "tags"     : "js, linter, and tutorial",
-      "categories"     : "js",
-      "url"      : "/analisando-seu-codigo-js-com-linter/",
-      "date"     : "04 Dec 2015"
-    } ,
-  
-    {
-      "title"    : "Social Meta Tags",
-      "tags"     : "social, seo, and tutorial",
-      "categories"     : "html",
-      "url"      : "/social-meta-tags/",
-      "date"     : "09 Feb 2015"
-    } ,
-  
-    {
-      "title"    : "#1 - Por que usar SVG?",
-      "tags"     : "svg, frontend, trend, and dicarapida",
-      "categories"     : "svg",
-      "url"      : "/por-que-usar-svg/",
-      "date"     : "08 Jan 2015"
-    } ,
-  
-    {
-      "title"    : "Dica rápida #1",
-      "tags"     : "dicarapida",
-      "categories"     : "dev",
-      "url"      : "/dica-rapida-1/",
-      "date"     : "07 Jan 2015"
+      "title"    : "Unable to start Microsoft Teams Client for Mac – Error Code 300",
+      "tags"     : "Teams and Office365",
+      "categories"     : "teams",
+      "url"      : "/unable-to-start-microsoft-teams-client-for-mac-error-code-300/",
+      "date"     : "13 Mar 2018"
     } 
   
 ]
